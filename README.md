@@ -13,7 +13,7 @@ The main objective is to analyze patterns in passenger satisfaction and build pr
 
 •	Target: Satisfaction
 
-📈 Project Workflow
+# 📈 Project Workflow
 1.	Data Cleaning & Preprocessing
 2.	Exploratory Data Analysis (EDA)
 3.	Model Building
